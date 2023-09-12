@@ -1,5 +1,5 @@
 # Netflix Clone
-This is a Netflix frontend clone project that replicates the user interface of the popular streaming platform Netflix using HTML, CSS, and JavaScript. The project aims to provide a visually similar experience to Netflix, including the main landing page with movie thumbnails and a movie details page.
+This is a Netflix frontend clone project that replicates the user interface of the popular streaming platform Netflix using HTML, CSS, and JavaScript. The project aims to provide a visually similar experience to Netflix, including the main landing page with movie thumbnails.
 
 
 ### Please find the Project Images below.
