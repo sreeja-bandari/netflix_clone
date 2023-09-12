@@ -2,10 +2,30 @@
 This is a Netflix frontend clone project that replicates the user interface of the popular streaming platform Netflix using HTML, CSS, and JavaScript. The project aims to provide a visually similar experience to Netflix, including the main landing page with movie thumbnails.
 
 
+## Getting Started
+* ### Prerequisites
+Before you start, make sure you have the following:
+
+A modern web browser (e.g., Chrome, Firefox, Edge) installed on your computer.
+A text editor for code editing (e.g., Visual Studio Code, Sublime Text).
+* ### Installation
+Clone this repository to your local machine using:
+
+* git clone https://github.com/sreeja-bandari/netflix-clone.git
+ 
+Navigate to the project directory:
+* cd netflix-frontend-clone
+## Features
+The Netflix frontend clone project includes the following features:
+
+* Landing page with movie thumbnails and titles.
+* Animations and Images to describing the Platform.
+* Responsive design for various screen sizes.
+
+## Usage
+To view the Netflix clone, simply open the index.html file in a modern web browser. You can navigate between the landing page and movie details page using the navigation bar.
+
 ### Please find the Project Images below.
-
-
-
 
 ![Screenshot (273)](https://github.com/sreeja-bandari/netflix_clone/assets/98574197/2deab75b-07a5-4861-bd0f-ab55e422b910)
 
